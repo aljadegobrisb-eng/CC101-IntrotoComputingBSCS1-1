@@ -1,14 +1,13 @@
 # CC101-IntrotoComputingBSCS1-1
 
-
 ## Programming Foundations
 
 | Program | Description |
 | --- | --- |
-| programming-foundations/my_profile.py | Displays my profile using variables |
-| programming-foundations/grade_calculator.py | Computes the midterm rating |
-| programming-foundations/even_odd.py | Tells whether a number is even or odd |
-| programming-foundations/jeepney_fare.py | Computes the jeepney fare with discount |
-| programming-foundations/sum_to_n.py | Sums the numbers from 1 to n |
-| programming-foundations/savings_tracker.py | Totals daily savings until 0 is entered |
-| programming-foundations/buggy_average.py | Debugged quiz-average program |
+| my_profile.py | Displays my profile using variables |
+| grade_calculator2.py | Computes the midterm rating |
+| even_odd2.py | Tells whether a number is even or odd |
+| jeepney_fare2.py | Computes the jeepney fare with discount |
+| sum_to_n2.py | Sums the numbers from 1 to n |
+| savings_tracker2.py | Totals daily savings until 0 is entered |
+| buggy_average2.py | Debugged quiz-average program |
